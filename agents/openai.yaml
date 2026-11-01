@@ -1,0 +1,4 @@
+interface:
+  display_name: "Renpay Game Developer"
+  short_description: "Build, test, and release RenPy games"
+  default_prompt: "Use $renpay-game-developer to help develop and test my RenPy game."
